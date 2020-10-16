@@ -70,7 +70,7 @@ With less staff onboard, it gets hectic for the workers to continuously keep a c
  ### Project Tasks:
     
 1. Installation of required libraries like CV2(Open_CV)
-2. VIsualisations where we alert people to maintain a certain distance
+2. Visualisations where we alert people to maintain a certain distance
 
 ### Project Outcomes
-* To check if people in facility are following social distancing
+* Inspects whether social distancing is followed or not
