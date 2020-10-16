@@ -29,13 +29,25 @@ Real time data acquisition and analysis of high-resolution data tends to focus o
 * Infographics and Data Visualisation puts raw numbers into perspective
 * Interactive and continually updated information of each state
 * Continual monitoring of Cases draw from latest data
-             
+
+# MASK DETECTION 
+## Problem:
+Humans have been hit by the pandemic globally, and wearing a mask has become a prerequisite. However, most of the citizens are abandoning to wear masks and being a source to spread the disease to others. Moreover, it is getting difficult for hospital management and higher officials at crowd-gathering places to keep a check on this issue. This resulted in an increase in the number of COVID-19 cases all over the world.
+## Solution:
+The current project aims to build a small model using Machine and Deep Learning with the inclusion of image detection techniques in Google Colab. It helps to edify the Face Mask Detection System, which is now seemingly gaining popularity and importance, especially at the smart hospitals for effective patient care. For safeguarding the health of citizens, the mask detector system needs to get executed at crowd-gatherings like shopping malls, warehouses, airports and many other places where foot traffic is hefty.
+
+### Project Tasks:
+1. Data collection
+2. Installation of required libraries like Tensorflow.
+3. Read the model
+4. Data Visualization where the prediction of wearing masks takes place
+### Project Outcomes:
+1. Infographics and Image Classification on the basis of mask
+2. To check whether the person is wearing mask or not            
              
  # Room Occupancy
 ## Problem:
 During covid times, maintaining social distancing is necessary, whether it be rooms for patients or washrooms. But it's not possible to tell if a room is just used or not, which makes the next user or cleaner vulnerable to unhealthy circumstances.
-
-
 ## Solution:
 Here, we are automating the process of checking room availability. The rooms in the facility are classified occupied or unoccupied based on passive sensor data such as temperature, humidity, light and CO2 levels. The model is based on logical regression for binary classification. 
 
@@ -44,7 +56,6 @@ Here, we are automating the process of checking room availability. The rooms in 
 2. Data Modeling and Prediction
 3. Data Visualisation
 4. Data Classification
-5. Prediction Model’s accuracy
-
+5. Prediction of Model’s accuracy
 ### Project Outcomes
 * Effective utilisation of the available  space i.e avoiding re-usage of the same room/restroom
