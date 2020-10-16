@@ -30,7 +30,7 @@ Real time data acquisition and analysis of high-resolution data tends to focus o
 * Interactive and continually updated information of each state
 * Continual monitoring of Cases draw from latest data
 
-# MASK DETECTION 
+# Mask Detection 
 ## Problem:
 Humans have been hit by the pandemic globally, and wearing a mask has become a prerequisite. However, most of the citizens are abandoning to wear masks and being a source to spread the disease to others. Moreover, it is getting difficult for hospital management and higher officials at crowd-gathering places to keep a check on this issue. This resulted in an increase in the number of COVID-19 cases all over the world.
 ## Solution:
@@ -58,4 +58,19 @@ Here, we are automating the process of checking room availability. The rooms in 
 4. Data Classification
 5. Prediction of Model’s accuracy
 ### Project Outcomes
-* Effective utilisation of the available  space i.e avoiding re-usage of the same room/restroom
+* Effective utilisation of the available  space i.e avoiding re-usage of the same room/restroom.
+
+# Social Distancing
+
+## Problem:
+Social distancing is a prerequisite in the facility, however the task can’t be performed effectively by the workers, as 24/7 surveillance is not feasible. 
+
+## Solution:
+With less staff onboard, it gets hectic for the workers to continuously keep a check on the social distancing norm being followed in the facility. So, in this track the task of checking social distancing is being automated. The system will create an alert "TO CLOSE!" if two individuals don't maintain a certain gap. Further, it could be connected to a sensor to create an alarm system in the facility.
+ ### Project Tasks:
+    
+1. Installation of required libraries like CV2(Open_CV)
+2. VIsualisations where we alert people to maintain a certain distance
+
+### Project Outcomes
+* To check if people in facility are following social distancing
