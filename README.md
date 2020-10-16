@@ -29,4 +29,22 @@ Real time data acquisition and analysis of high-resolution data tends to focus o
 * Infographics and Data Visualisation puts raw numbers into perspective
 * Interactive and continually updated information of each state
 * Continual monitoring of Cases draw from latest data
-                
+             
+             
+ # Room Occupancy
+## Problem:
+During covid times, maintaining social distancing is necessary, whether it be rooms for patients or washrooms. But it's not possible to tell if a room is just used or not, which makes the next user or cleaner vulnerable to unhealthy circumstances.
+
+
+## Solution:
+Here, we are automating the process of checking room availability. The rooms in the facility are classified occupied or unoccupied based on passive sensor data such as temperature, humidity, light and CO2 levels. The model is based on logical regression for binary classification. 
+
+### Project Tasks:
+1. Data Collection and Interpretation
+2. Data Modeling and Prediction
+3. Data Visualisation
+4. Data Classification
+5. Prediction Model’s accuracy
+
+### Project Outcomes
+* Effective utilisation of the available  space i.e avoiding re-usage of the same room/restroom
